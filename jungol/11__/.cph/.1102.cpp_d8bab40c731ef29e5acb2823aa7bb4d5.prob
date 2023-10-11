@@ -1,0 +1,1 @@
+{"name":"Local: 1102","url":"/Users/inter/Documents/Pjs/PS/11__/1102.cpp","tests":[{"id":1677402072231,"input":"7\ni 7\ni 5\nc\no\no\no\nc","output":"2\n5\n7\nempty\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/11__/1102.cpp","group":"local","local":true}

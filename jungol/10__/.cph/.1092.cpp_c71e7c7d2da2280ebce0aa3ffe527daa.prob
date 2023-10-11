@@ -1,0 +1,1 @@
+{"name":"Local: 1092","url":"/Users/inter/Documents/Pjs/PS/10__/1092.cpp","tests":[{"id":1677289199965,"input":"2 10","output":"1024"},{"id":1677289360667,"input":"987654321 10248","output":"18135873"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/10__/1092.cpp","group":"local","local":true}

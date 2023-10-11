@@ -1,0 +1,1 @@
+{"name":"Local: 5349","url":"/Users/inter/Documents/Pjs/PS/53__/5349.cpp","tests":[{"id":1681521519338,"input":"a b c d e f g h i j k","output":"j h f d b "},{"id":1681634129889,"input":"Jungol is the best","output":"best is"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/53__/5349.cpp","group":"local","local":true}

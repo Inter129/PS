@@ -1,0 +1,1 @@
+{"name":"Local: 1337","url":"/Users/inter/Documents/Pjs/PS/13__/1337.cpp","tests":[{"id":1679217142903,"input":"3","output":"0 \n5 1 \n4 3 2"},{"id":1679217740374,"input":"6","output":"0\n4 1\n3 5 2\n2 0 6 3\n1 9 8 7 4\n0 9 8 7 6 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/13__/1337.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 4917","url":"/Users/inter/Documents/Pjs/PS/49__/4917.cpp","tests":[{"id":1677165170711,"input":"11\n3451 2352 1113 4034 3495","output":"1"},{"id":1677165195021,"input":"13\n1111 2222 3333 5555 2233","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/49__/4917.cpp","group":"local","local":true}

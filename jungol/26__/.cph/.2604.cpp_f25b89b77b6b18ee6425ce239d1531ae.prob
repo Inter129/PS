@@ -1,0 +1,1 @@
+{"name":"Local: 2604","url":"/Users/inter/Documents/Pjs/PS/26__/2604.cpp","tests":[{"id":1681298110858,"input":"((((","output":"25"},{"id":1681298185427,"input":"()()()))(","output":"80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/26__/2604.cpp","group":"local","local":true}

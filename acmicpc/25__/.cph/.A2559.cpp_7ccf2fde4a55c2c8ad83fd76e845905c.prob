@@ -1,0 +1,1 @@
+{"name":"Local: A2559","url":"/Users/inter/Documents/Pjs/PS/A25__/A2559.cpp","tests":[{"id":1678509432921,"input":"10 5\n3 -2 -4 -9 0 3 7 13 8 -3","output":"31"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/A25__/A2559.cpp","group":"local","local":true}

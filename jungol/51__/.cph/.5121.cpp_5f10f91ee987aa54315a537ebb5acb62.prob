@@ -1,0 +1,1 @@
+{"name":"Local: 5121","url":"/Users/inter/Documents/Pjs/PS/51__/5121.cpp","tests":[{"id":1677128384258,"input":"3\n10 20\n15 18\n20 15","output":"18"},{"id":1677128395056,"input":"3\n15 13\n17 14\n20 15","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/51__/5121.cpp","group":"local","local":true}

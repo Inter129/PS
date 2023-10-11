@@ -1,0 +1,1 @@
+{"name":"Local: 5386","url":"/Users/inter/Documents/Pjs/PS/53__/5386.cpp","tests":[{"id":1677160796745,"input":"3\nABCDE 2\nCOAT 1\nDDOG 0","output":"ABDE\nCAT\nDOG"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/inter/Documents/Pjs/PS/53__/5386.cpp","group":"local","local":true}
