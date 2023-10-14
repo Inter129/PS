@@ -1,0 +1,1 @@
+{"name":"Local: 2667","url":"/Users/dev/inter/Pjs/C++/PS/acmicpc/26__/2667.cpp","tests":[{"id":1697247932776,"input":"7\n0110100\n0110101\n1110101\n0000111\n0100000\n0111110\n0111000","output":"3\n7\n8\n9"}],"interactive":false,"memoryLimit":128,"timeLimit":1000,"srcPath":"/Users/dev/inter/Pjs/C++/PS/acmicpc/26__/2667.cpp","group":"local","local":true}
